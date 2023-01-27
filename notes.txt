@@ -1,0 +1,121 @@
+[set tab width to 4 spaces]
+
+progression
+-----------
+
+basic idea is to collect keys from the bottom of each downpipe and open the corresponding doors in the 
+central area. You start in th emiddle of teh central area:
+
+KEY SEQUENCE:
+-------------
+
+RED, BLUE, YELLOW
+
+PROGRESSION:
+------------
+All door except c1, c2 and c7 are blocked initially.
+c1 - shotgun
+c2 - switch (d4) opens doors to downpipes (d5)
+
+RED KEY:
+ - c7 - access first downpipe (d1) switch
+ - exit lines from bottom of d1 triggers c8 trap.
+ - get red key (crates with lava - it's Hell after all...?)
+ - Can now access c3  (so now c1,2,3,7 and 8 are passable)
+
+BLUE KEY:
+ - RED DOOR, c3 - find switch opens second (d2) downpipe (puzzle TODO)
+ - get BLUE KEY (library?)
+ - exit lines from bottom of d2 triggers c4 trap.
+ - can now access door c5 (so now c1,2,3,4,5,7 and 8 are passable)
+
+YELLOW KEY:
+ - BLUE DOOR, access downpipe d3 opener switch (puzzle TODO)
+ - get YELLOW KEY (deep lava cave??)
+ - exit lines from bottom of d3 triggers monster closet? Or maybe as you cross yellow door? 
+ - can now access door c6 (so now all doors are passable)
+ -> big fight - maybe accesses an upstairs open area? line Portal to upper 'floor' outside area? maybe... It might be funky to 
+    see down into CENTRAL AREA? And also see the other side of hellknigh area (c8)?
+
+CENTRAL AREA:
+-------------
+
+
+								  N
+           c1                                        c2
+		|-------|********************************|-------|
+	 ---                                                  ---
+	  |                                                    |
+   c3 |                                                    |  c4
+RED	  |                                                    |
+	  |                                                    |
+	 ---                                                  ---
+      *                                                    *	 
+	  *                                                    *
+	  *                                                    *
+	  *                                                    *
+	  *                                                    *
+	  *                                                    *
+ W	  *                                                    *    E
+	  *                     START	                       *
+	  *                                                    *
+	  *                                                    *
+	  *                                                    *
+	  *                                                    *
+	  *                                                    *
+	  *                                                    *
+	 ---                                                  ---
+   c5 |                                                    |  c6
+	  |                                                    |  YELLOW (EXIT)
+BLUE  |                                                    |
+	  |                                                    |
+	 ---                                                  ---
+		|-------|********************************|-------|
+		   c7                                        c8
+		  
+								  S		 
+
+DOWNPIPES:
+----------
+
+
+		 ****************************************
+		*	x									  \
+		*	x									    \
+		*	x   d4									  \
+		*	x										    *
+		 *********************************				*
+											\			*
+		|*******T*****************************\ 		*
+		*		*								*		*
+		*		*			--------			*		*
+		*		--		   |		|			*		*
+		*		 |		   |	d3	|			*		*
+		*		 |d5	   |		|			*		*
+		*		 |		   |		|			*		*
+		*		--			--------			*		*
+		*		*								*		*
+		*		*								*		*
+		*		--			--------			*		*
+		*		 |		   |		|			*		*
+		*		 |d5	   |	d2	|			*		*
+		*		 |		   |		|			*		*
+		*		--		   |		|			*		*
+		*		*			--------			*		*
+		*		*								*		*
+		*		--								*		*
+		*		 |			--------			*		*
+		*		 |d5	   |		|			*		*
+		*		 |		   |	d1	|			*		*
+		*		--		   |		|			*		*
+		*		*		   |		|			*		*
+		*		*			-------- 			*		*
+		*		*								*		*	
+		|-------|*                             *|-------|
+			c1										c2
+
+
+
+
+
+
