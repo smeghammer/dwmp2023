@@ -117,5 +117,17 @@ DOWNPIPES:
 
 
 
+second tunnel switch puzzle:
+----------------------------
 
+
+Final strages:
+ - go in tunnel (door closes behind you)
+ - activate switch (button to access door opens)
+ - must go out via arachno  (sort door!)
+ - access to switch chanber is granted (a door opens)
+ - BUT, the switch is guarded by a barrier (TODO)
+ - can SEE the switch in the 3rd chamber airlock (-328, -1776)
+ - need to go and activate it (past the gauntlet of (imps??) - maybe this opens a shortcut too
+ - I want to add more of the funky thing in this section!
 
