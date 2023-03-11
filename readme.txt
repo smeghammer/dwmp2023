@@ -1,5 +1,8 @@
 logic:
 
+keys:
+
+
 all tonnels closed
 
 mmost doors are closed/keyed.
