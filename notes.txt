@@ -131,3 +131,41 @@ Final strages:
  - need to go and activate it (past the gauntlet of (imps??) - maybe this opens a shortcut too
  - I want to add more of the funky thing in this section!
 
+ - it is possible to softlock!
+ - S segment:
+   -> back corridor, autoclosing door at -1440, -1704 - if you exit WITHOUT clicking button at -1224, -1056, you cannot get back! Therefore:
+   
+   
+   Bio's playthrough:
+
+GENERAL
+ - maybe a better indicator of progression with the switches? - Each switch you find opens the silos in turn, down which you then find the keys. I tried to indicate progression with the opening silos that you can jump down with each switch. I didn't want to have any scripted messages ("the first tunnel has opened" etc.)
+- Door sectors are lit on getting the keys - not sure if you noticed that. Maybe I should make them flicker too?
+ 
+CRATE AREA
+ - alternate method of getting to the crate secret door! (with RL by arachno). I hadn't even considered that you can run across the crates! Think I'll leave it as an alt method.
+ - cells vs plasma gun - Yeah... because of replacement of plasma gun secret in crates area with RL. Forgot to tweak the ammo.
+ - the lock-in from the crate area is not working. I mean, it works, but seems a bit pointless after watching you play... After you release the arachnnos by getting the blue key guarded by the manc, a barrier closes on the big stairway back down to the hellknight trap. It is not clear at all that this happens. I think I need to rework this bit, or I might just remove that altogether.
+
+MAZE AREA
+ - door in maze area needs to be faster! - and the second switch behind it needs to be lit better (maybe a flickering light?)
+ - also is possible to softlock and be unable to go back in to press the switch! added WR to doors,
+
+RED CACO AREA
+There is some goodies here as well as the cells at the far end. You can drop down to the right and behind the blood falls there are chaingunners and a RL secret area. This needs to be better indicated, and have better goodies I think.
+
+GREEN SLIME AREA
+ - alternate route to the green plasma gun! (You found the very slim ledge as well though)
+ - green slime secret missed - When you ran into the slime falls behind the broken fending, you got a couple of the secrets there. I think a rad suit is needed here too. There is in fact a BFG in there as well, and you can see it from the very start of the map behind some gratings.
+
+- needs more ammo!!
+
+THIRD SILO
+ - 3rd silo area, empty of monsters! - I think I fucked up and didn't push the most recent changes that includes monsters in this area. I need to do that...
+
+EXIT AREA
+
+Behind the yellow door - same problem as above. I need to push the changes that include the monsters... 
+So there are a few bugs in this - some are just placement/ammo tweaks, but progression logic indicators need a bit more thought though I think.
+
+ 
