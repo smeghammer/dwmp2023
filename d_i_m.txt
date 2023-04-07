@@ -49,7 +49,7 @@ Build Time              : About two months on and off
 Editor(s) used          : Eureka, Slade
 Known Bugs              : None 
 May Not Run With...     : Pregnancy test kits
-Tested Whit		: GZDoom 4.10
+Tested With		        : GZDoom 4.10
 
 
 * Copyright / Permissions *
